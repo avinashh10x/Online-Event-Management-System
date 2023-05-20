@@ -26,15 +26,17 @@ The Partner Management feature allows organizers to manage volunteers, sponsors,
 <details>
   <summary style="font-size: 18px"> Organizer Management </summary>
 
-- **Create**: Add sponsor details using a sponsor form, and add speaker details using a speaker form.
+- **Create**: Add sponsor details using a sponsor form, add speaker details using a speaker form, add opportunity details using a opportunity form.
 
-- **Read**: View registered volunteers, speakers, and sponsors, as well as event-specific volunteers in a table view. Generate reports related to partners.
+- **Read**: View registered volunteers, speakers, and sponsors, opportunities, as well as event-specific partners in a table view. Generate reports related to partners and opportunities.
 
-- **Update**: Update sponsor details using an update form, and update the status of volunteer applications in a table.
+- **Update**: Update partner and opportunity details using an update form, and update the status of volunteer applications in a table.
 
-- **Delete**: Delete partners, such as sponsors and speakers.
+- **Delete**: Delete partners (speakers, sponsors, volunteers) and opportunities.
 
 </details>
+
+
 
 ## Tech Stack
 
